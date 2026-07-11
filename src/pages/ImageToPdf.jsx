@@ -45,7 +45,7 @@ function ImageToPdf() {
       );
 
       const fileUrl =
-        "http://localhost:5000" + res.data.file;
+        "https://easytransform-backend.onrender.com" + res.data.file;
 
       const response = await fetch(fileUrl);
 

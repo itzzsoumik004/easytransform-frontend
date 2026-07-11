@@ -61,7 +61,7 @@ function ImageResizer() {
         res.data.file.split("/").pop();
 
       setDownload(
-        "http://localhost:5000/download/images/" +
+        "https://easytransform-backend.onrender.com/download/images/" +
         fileName
       );
 

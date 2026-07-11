@@ -28,7 +28,7 @@ function MergePdf() {
         formData
       );
 
-      const url = "http://localhost:5000" + res.data.file;
+      const url = "https://easytransform-backend.onrender.com" + res.data.file;
 
       window.open(url, "_blank");
 
