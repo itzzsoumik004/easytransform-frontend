@@ -1,60 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
     <loc>https://itzzsoumik004.github.io/easytransform-frontend/</loc>
   </url>
-
-  <url>
-    <loc>https://itzzsoumik004.github.io/easytransform-frontend/image-to-pdf</loc>
-  </url>
-
-  <url>
-    <loc>https://itzzsoumik004.github.io/easytransform-frontend/pdf-to-word</loc>
-  </url>
-
-  <url>
-    <loc>https://itzzsoumik004.github.io/easytransform-frontend/word-to-pdf</loc>
-  </url>
-
-  <url>
-    <loc>https://itzzsoumik004.github.io/easytransform-frontend/merge-pdf</loc>
-  </url>
-
-  <url>
-    <loc>https://itzzsoumik004.github.io/easytransform-frontend/split-pdf</loc>
-  </url>
-
-  <url>
-    <loc>https://itzzsoumik004.github.io/easytransform-frontend/image-resizer</loc>
-  </url>
-
-  <url>
-    <loc>https://itzzsoumik004.github.io/easytransform-frontend/image-compressor</loc>
-  </url>
-
-  <url>
-    <loc>https://itzzsoumik004.github.io/easytransform-frontend/image-converter</loc>
-  </url>
-
-  <url>
-    <loc>https://itzzsoumik004.github.io/easytransform-frontend/background-remover</loc>
-  </url>
-
-  <url>
-    <loc>https://itzzsoumik004.github.io/easytransform-frontend/passport-photo</loc>
-  </url>
-
-  <url>
-    <loc>https://itzzsoumik004.github.io/easytransform-frontend/pdf-compressor</loc>
-  </url>
-
-  <url>
-    <loc>https://itzzsoumik004.github.io/easytransform-frontend/about</loc>
-  </url>
-
-  <url>
-    <loc>https://itzzsoumik004.github.io/easytransform-frontend/contact</loc>
-  </url>
-
 </urlset>
